@@ -1,0 +1,12 @@
+rich>=10.0.0
+typer>=0.9.0
+textual>=0.47.1
+Pillow>=10.0.0
+exifread>=3.0.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+colorama>=0.4.6
+watchdog>=3.0.0
+click>=8.1.7
+pathlib>=1.0.1
+loguru>=0.7.2 
